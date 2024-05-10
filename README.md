@@ -9,5 +9,5 @@
 
 ## Projects
 
-1. [Project 1]()
-2. 
+1. [Project 1](https://github.com/kivatmojo/econ144/blob/main/project1/README.md)
+2. [Project 2](https://github.com/kivatmojo/econ144/blob/main/project2/README.md)

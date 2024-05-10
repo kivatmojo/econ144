@@ -1,4 +1,4 @@
-# Trend and Season Modeling
+# Modeling and Forecasting Trend, Seasonality, and Cycles
 ***
 
 ## Project Prompt: [project2.pdf](https://github.com/kivatmojo/econ144/files/15270522/project2.pdf)
